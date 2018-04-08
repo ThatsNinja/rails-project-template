@@ -1,6 +1,10 @@
-# mattbrictson/rails-template
+# rails-project-template
 
 ## Description
+
+This is based entirely off of mattbrictson/rails-template as an excellent prototype of exactly what I was wanting to accomplish. I use Docker for the majority of my Rails workflows, however, so I needed the ability to make numerous changes to his project.
+
+# Original Documentation
 
 This is the application template that I use for my Rails 5.1 projects. As a freelance Rails developer, I need to be able to start new projects quickly and with a good set of defaults. I've assembled this template over the years to include best-practices, tweaks, documentation, and personal preferences, while still generally adhering to the "Rails way".
 
